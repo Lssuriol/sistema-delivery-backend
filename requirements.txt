@@ -9,3 +9,4 @@ psycopg2-binary
 whitenoise
 cloudinary
 django-cloudinary-storage
+dj-database-url>=0.5.0
